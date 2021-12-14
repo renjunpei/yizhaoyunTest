@@ -119,6 +119,15 @@ class Me(unittest.TestCase):
         print(result)
 
 
+    # 上传头像
+    def test_g_Upload(self):
+        u"""上传头像"""
+        pass
+
+
+
+
+
 
 
 
