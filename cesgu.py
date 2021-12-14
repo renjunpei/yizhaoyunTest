@@ -4,6 +4,8 @@ import time
 import os
 import HTMLTestRunner
 
+import abc
+
 # from testcase.myLogin import MyLogin
 
 # def report(testreport):#查找最新的测试报告
